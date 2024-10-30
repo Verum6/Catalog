@@ -1,1 +1,1 @@
-https://frjsvp-fp.myshopify.com/collections/all
+https://frjsvp-fp.myshopify.com
